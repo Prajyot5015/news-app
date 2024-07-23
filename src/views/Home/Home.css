@@ -1,3 +1,6 @@
+.main-title{
+    text-align: center;
+}
 .news-container{
     display: flex;
     flex-wrap: wrap;
